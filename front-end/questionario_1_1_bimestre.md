@@ -1,7 +1,7 @@
 ---
 
 1.  **No-Code:** O que é o desenvolvimento **no-code** e qual a sua principal vantagem em relação ao desenvolvimento tradicional?
-
+O no-code é o desenvolvimento de apps e sistemas sem programar, usando plataformas visuais.
 2.  **Linguagem de Programação:** Cite uma linguagem de programação de back-end comumente utilizada em conjunto com **HTML**, **CSS** e **JavaScript** para criar aplicações web completas.
 
 3.  **HTML:** Qual o principal objetivo do **HTML**? Qual a diferença entre uma tag `<h1>` e `<h6>`?
