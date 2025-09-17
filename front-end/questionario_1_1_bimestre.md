@@ -5,7 +5,10 @@ O no-code é o desenvolvimento de apps e sistemas sem programar, usando platafor
 2.  **Linguagem de Programação:** Cite uma linguagem de programação de back-end comumente utilizada em conjunto com **HTML**, **CSS** e **JavaScript** para criar aplicações web completas.
 Uma linguagem de back-end comumente usada junto com HTML, CSS e JavaScript é o Python (com Django ou Flask).
 3.  **HTML:** Qual o principal objetivo do **HTML**? Qual a diferença entre uma tag `<h1>` e `<h6>`?
+O HTML serve para estruturar o conteúdo da web.
 
+ <h1> é o título mais importante (maior).
+ <h6> é o menos importante (menor).
 4.  **CSS:** Como o **CSS** contribui para o desenvolvimento web? Qual a função da propriedade `margin`?
 
 5.  **JavaScript:** Qual a função do **JavaScript** em uma página web? Qual a diferença entre `let`, `const` e `var`?
